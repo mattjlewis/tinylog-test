@@ -5,7 +5,7 @@ import org.tinylog.Logger;
 import test.a.A;
 import test.b.B;
 
-public class LogTest {
+public class Main {
 	public static void main(String[] args) {
 		Logger.info("in main()");
 		Logger.debug("in main()");
